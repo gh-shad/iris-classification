@@ -61,4 +61,4 @@ The model achieved high accuracy in predicting the correct species of the iris f
 
 ## 👨‍💻 Author
 
-*Mohammed Shadhil*
+*Mohamed Shadhil*
